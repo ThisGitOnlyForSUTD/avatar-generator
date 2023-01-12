@@ -1,4 +1,9 @@
 # avatar-generator
+![npm](https://img.shields.io/npm/v/14?color=green)
+![Vue](https://img.shields.io/badge/vue-2.7.10-green)
+
+**Avatar Generator**-This is a simple task for job
+**[Live demo](https://studydatabase-bc40c.web.app/)** :globe_with_meridians:
 
 ## Project setup
 ```
